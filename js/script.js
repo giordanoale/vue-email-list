@@ -17,7 +17,5 @@ var app = new Vue({
                 });
             }
 
-            console.log(self.emails);
-
         }
 });
